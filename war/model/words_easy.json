@@ -1,0 +1,51 @@
+[
+	{
+		"id" : "1",
+		"original" : "word",
+		"uebersetzung" : "word"
+	},
+	{
+		"id" : "2",
+		"original" : "bag",
+		"uebersetzung" : "bag"
+	},
+	{
+		"id" : "3",
+		"original" : "hand",
+		"uebersetzung" : "hand"
+	},
+	{
+		"id" : "4",
+		"original" : "car",
+		"uebersetzung" : "car"
+	},
+	{
+		"id" : "5",
+		"original" : "horse",
+		"uebersetzung" : "horse"
+	},	{
+		"id" : "6",
+		"original" : "chair",
+		"uebersetzung" : "chair"
+	},
+	{
+		"id" : "7",
+		"original" : "cat",
+		"uebersetzung" : "cat"
+	},
+	{
+		"id" : "8",
+		"original" : "table",
+		"uebersetzung" : "table"
+	},
+	{
+		"id" : "9",
+		"original" : "egg",
+		"uebersetzung" : "egg"
+	},
+	{
+		"id" : "10",
+		"original" : "dog",
+		"uebersetzung" : "dog"
+	},
+]

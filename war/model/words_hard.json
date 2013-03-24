@@ -1,0 +1,101 @@
+[
+	{
+		"id" : "1",
+		"original" : "strawberry",
+		"uebersetzung" : "strawberry"
+	},
+	{
+		"id" : "2",
+		"original" : "pineapple",
+		"uebersetzung" : "pineapple"
+	},
+	{
+		"id" : "3",
+		"original" : "asparagus",
+		"uebersetzung" : "asparagus"
+	},
+	{
+		"id" : "4",
+		"original" : "cutlery",
+		"uebersetzung" : "cutlery"
+	},
+	{
+		"id" : "5",
+		"original" : "teapot",
+		"uebersetzung" : "teapot"
+	},	{
+		"id" : "6",
+		"original" : "armchair",
+		"uebersetzung" : "armchair"
+	},
+	{
+		"id" : "7",
+		"original" : "carabiner",
+		"uebersetzung" : "carabiner"
+	},
+	{
+		"id" : "8",
+		"original" : "garden",
+		"uebersetzung" : "garden"
+	},
+	{
+		"id" : "9",
+		"original" : "level",
+		"uebersetzung" : "level"
+	},
+	{
+		"id" : "10",
+		"original" : "jacks",
+		"uebersetzung" : "jacks"
+	},
+	{
+		"id" : "11",
+		"original" : "badminton",
+		"uebersetzung" : "badminton"
+	},
+	{
+		"id" : "12",
+		"original" : "headwall",
+		"uebersetzung" : "headwoll"
+	},
+		{
+		"id" : "13",
+		"original" : "cliff",
+		"uebersetzung" : "cliff"
+	},
+		{
+		"id" : "14",
+		"original" : "musical",
+		"uebersetzung" : "musical"
+	},
+	{
+		"id" : "15",
+		"original" : "extrabudgetary",
+		"uebersetzung" : "extrabudgetary"
+	},
+			{
+		"id" : "16",
+		"original" : "aurora",
+		"uebersetzung" : "aurora"
+	},
+			{
+		"id" : "17",
+		"original" : "astrometry",
+		"uebersetzung" : "astrometry"
+	},
+			{
+		"id" : "18",
+		"original" : "Antlia",
+		"uebersetzung" : "Antlia"
+	},
+			{
+		"id" : "19",
+		"original" : "protoplanetary",
+		"uebersetzung" : "protoplanetary"
+	},
+			{
+		"id" : "20",
+		"original" : "orchard",
+		"uebersetzung" : "orchard"
+	},
+]

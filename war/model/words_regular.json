@@ -1,0 +1,76 @@
+[
+	{
+		"id" : "1",
+		"original" : "airplaine",
+		"uebersetzung" : "airplaine"
+	},
+	{
+		"id" : "2",
+		"original" : "apartment",
+		"uebersetzung" : "apartment"
+	},
+	{
+		"id" : "3",
+		"original" : "daughter",
+		"uebersetzung" : "daughter"
+	},
+	{
+		"id" : "4",
+		"original" : "bill",
+		"uebersetzung" : "bill"
+	},
+	{
+		"id" : "5",
+		"original" : "teapot",
+		"uebersetzung" : "teapot"
+	},	{
+		"id" : "6",
+		"original" : "armchair",
+		"uebersetzung" : "armchair"
+	},
+	{
+		"id" : "7",
+		"original" : "blowpipe",
+		"uebersetzung" : "blowpipe"
+	},
+	{
+		"id" : "8",
+		"original" : "garden",
+		"uebersetzung" : "garden"
+	},
+	{
+		"id" : "9",
+		"original" : "level",
+		"uebersetzung" : "level"
+	},
+	{
+		"id" : "10",
+		"original" : "jacks",
+		"uebersetzung" : "jacks"
+	},
+	{
+		"id" : "11",
+		"original" : "badminton",
+		"uebersetzung" : "badminton"
+	},
+	{
+		"id" : "12",
+		"original" : "football",
+		"uebersetzung" : "football"
+	},
+		{
+		"id" : "13",
+		"original" : "coach",
+		"uebersetzung" : "coach"
+	},
+		{
+		"id" : "14",
+		"original" : "cheerleader",
+		"uebersetzung" : "cheerleader"
+	},
+		{
+		"id" : "15",
+		"original" : "baseball",
+		"uebersetzung" : "baseball"
+	},
+]
